@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797479611160",
+    "firebase_url": "https://biometria-b2bde.firebaseio.com",
+    "project_id": "biometria-b2bde",
+    "storage_bucket": "biometria-b2bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797479611160:android:05b48e5d84e8b23d938c6d",
+        "android_client_info": {
+          "package_name": "com.example.biometria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797479611160-grjfr50rljfgpcm4aif21jjnkadjt8ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsoPZaknVtUcS-bQB_kFZyC7o-pVFhc-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797479611160-grjfr50rljfgpcm4aif21jjnkadjt8ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
